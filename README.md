@@ -1,4 +1,4 @@
-# BookMyTicket (PROJECTZ.CPP)
+# BookMyTicket
 
 A small console-based movie ticket listing/management demo written in C++. This was a project that I made with the help of my classmate [Lisa](https://github.com/lisa761) , for our 12th grade final project. It is fun to see how basic this is and how my code has evolved over the years. Also, this was built and written for Turbo C++, so a lot of the design choices were limited by the technology of our time. 
 
